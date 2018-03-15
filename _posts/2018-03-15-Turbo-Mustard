@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "Turbo Mustard"
-date: 2018-03-15
+title:  "Turbo Mustard"
+date:   2019-03-15
 excerpt: "Indie game studio developing location-based Android game"
 project: true
 tag:
-- turbomustard
-- android
+- blog
 comments: true
 ---
 
