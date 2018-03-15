@@ -5,7 +5,7 @@ date:   2019-03-15
 excerpt: "Indie game studio developing location-based Android game"
 project: true
 tag:
-- blog
+- Turbo Mustard
 comments: true
 ---
 
