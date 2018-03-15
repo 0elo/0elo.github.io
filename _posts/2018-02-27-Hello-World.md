@@ -4,7 +4,7 @@ title: "Hello World!"
 date: 2018-02-27
 excerpt: "Hello reader, welcome to Zero Elo, my blog to document every aspect of my coding journey!"
 tags: [general]
-comments: false
+comments: true
 ---
 
 Hello reader, welcome to Zero Elo, my blog to document every aspect
