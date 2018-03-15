@@ -2,7 +2,7 @@
 layout: post
 title:  "Turbo Mustard"
 date:   2019-03-15
-excerpt: "Indie game studio developing location-based Android game"
+excerpt: "Indie game studio developing location-based Android game."
 project: true
 tag:
 - Turbo Mustard
