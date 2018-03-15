@@ -5,8 +5,8 @@ date: 2018-03-15
 excerpt: "Insight into Roger Federer's career through machine learning"
 project: true
 tag:
-- perfection
-- machinelearning
+- peRFection
+- machine learning
 comments: true
 ---
 
